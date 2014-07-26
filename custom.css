@@ -1,0 +1,14 @@
+/*Some css fixes to use night theme with IPython slides*/
+.highlight-base,pre code,pre .subst,pre .tag .title,pre .lisp .title,pre .clojure .built_in,pre .nginx .title{color:#DCDCDC !important;  /*#000*/}
+pre code{padding:0 !important;color:inherit !important;white-space:pre !important;white-space:pre-wrap !important;border:0 !important}
+.rendered_html pre,.rendered_html code{border:0;background-color:#3F3F3F !important;color: #DCDCDC !important;font-size:100%;padding:0; margin: 10px 0;}
+
+.gap {
+    clear: both;
+    margin: 2px, 0px;
+}
+
+.gap2 {
+    clear: both;
+    margin: 4px, 0px;
+}
