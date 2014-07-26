@@ -15,4 +15,14 @@ command:
 Please note that this command is also embedded in the **first** cell of the notebook to allow
 for an *inline* HTML slides generation.
 
+## Abstract
+
+**Graphs** define a powerful mental (and mathematical) model of structure, 
+representing the building blocks of formulations and/or solutions 
+for many *hard problems*. In this talk, graphs and (*some of the*) main 
+graph-related algorithms will be analysed from a **very pythonic** angle:
+the [Zen of Python][1] (e.g., *beautiful is better than ugly*, 
+*simple is better than complex*, *readability counts*).
+
+
 #### Author: Valerio Maggio (@leriomaggio)
